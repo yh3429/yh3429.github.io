@@ -1,0 +1,14 @@
+---
+title: "about page"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is YJ's awesome website
+
+
+Here's some text. I like the internet. I use [google](https://www.google.com/) all the time to do data science.
+
